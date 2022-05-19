@@ -2,8 +2,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido através do curso MapaDev Week, ministrado pelos DevEmDobro (Ricardo e Roberto). O projeto teve como objetivo criar uma seleção de personagens da Marvel, utilizando
-HTML, CSS e JavaScript.
+Esse projeto foi desenvolvido através do curso MapaDev Week, ministrado pelos DevEmDobro (Ricardo e Roberto). O projeto teve como objetivo criar um Character Select com personagens da Marvel, utilizando HTML, CSS e JavaScript.
 
 ## 📋 Tecnologias 
 
